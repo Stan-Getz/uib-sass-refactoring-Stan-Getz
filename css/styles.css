@@ -58,20 +58,17 @@ footer {
   grid-template-columns: 1fr 1fr;
   grid-gap: 2rem;
 }
-
-nav {
+.width-wrapper nav {
   margin: 0 0 8px;
 }
-
-h4 {
+.width-wrapper h4 {
   color: #fff;
   margin-right: 16px;
   display: inline;
   text-transform: none;
   font-size: inherit;
 }
-
-a {
+.width-wrapper a {
   display: block;
   color: #9b9dad;
   margin-right: 8px;
@@ -96,3 +93,5 @@ a {
     padding: 0 2rem;
   }
 }
+
+/*# sourceMappingURL=styles.css.map */
